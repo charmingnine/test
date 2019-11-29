@@ -1,0 +1,5 @@
+com\dao\MemberDao.class
+com\dao\UsersDao.class
+com\dao\OrdersDao.class
+com\dao\ProductDao.class
+com\dao\TravellerDao.class
